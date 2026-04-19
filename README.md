@@ -1,18 +1,22 @@
-<h1 align="center">Fandi</h1>
 <p align="center">
-  <i>A student exploring the world of technology and building skills step by step.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Fandi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h2 align="center">Fandiiaja</h2>
+<p align="center">
+  <i>Building skills, one step at a time.</i>
 </p>
 
 ---
 
-## 🚀 About
-I’m currently focused on learning and improving my fundamentals in programming.  
-Still at the beginning of the journey, but committed to consistent growth and real progress.
+## 🚀 About Me
+I am a student who is currently focused on learning programming and improving my skills consistently.  
+I believe progress comes from discipline, repetition, and curiosity.
 
 - 🎓 Student
 - 💻 Learning programming fundamentals
-- 🎯 Goal: becoming better every single day
-- ⚡ Interested in web development & tech
+- 🎯 Focus: Web Development & Technology
+- ⚡ Always improving, little by little
 
 ---
 
@@ -23,7 +27,7 @@ Still at the beginning of the journey, but committed to consistent growth and re
 
 ---
 
-## 📊 Statistics
+## 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fandiiaja&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
@@ -32,7 +36,7 @@ Still at the beginning of the journey, but committed to consistent growth and re
 
 ---
 
-## 🔥 Activity
+## 🔥 Activity Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Fandiiaja&theme=tokyonight&hide_border=true" />
 </p>
@@ -48,5 +52,9 @@ Still at the beginning of the journey, but committed to consistent growth and re
 
 ## ✨ Philosophy
 <p align="center">
-  <i>"Consistency builds skill. Skill builds confidence."</i>
+  <i>"Consistency beats talent when talent doesn't stay consistent."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
