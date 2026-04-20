@@ -1,60 +1,82 @@
+<h1 align="center">Master Fandi here 🔥</h1>
+<p align="center">Namaste 🙏 I'm Fandiiaja</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Fandi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h2 align="center">Fandiiaja</h2>
-<p align="center">
-  <i>Building skills, one step at a time.</i>
-</p>
-
----
-
-## 🚀 About Me
-I am a student who is currently focused on learning programming and improving my skills consistently.  
-I believe progress comes from discipline, repetition, and curiosity.
-
-- 🎓 Student
-- 💻 Learning programming fundamentals
-- 🎯 Focus: Web Development & Technology
-- ⚡ Always improving, little by little
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp" />
+  <img src="https://raw.githubusercontent.com/Fandiiaja/Fandiiaja/main/carmen.jpg" width="150" style="border-radius:50%;" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 🧑‍💻 About Me
+
+- 🚀 Started learning programming recently  
+- 💻 Exploring web development & tech  
+- 🎯 Focus on improving step by step  
+- 🧠 Always curious & learning new things  
+- ⚡ Building small projects  
+
+---
+
+## 🌐 Follow Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fandiiaja&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fandiiaja&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fandiiaja&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fandiiaja&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Activity Streak
+## 🔥 Activity
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fandiiaja&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Fandiiaja&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🧠 Tech Stack
+
+- Frontend: HTML, CSS, JavaScript  
+- Backend: (coming soon 😏)  
+- Tools: Git, VS Code  
+
+---
+
+## ⭐ Top Projects
+
+- 🚧 Coming soon...
+
+---
+
+## ☕ Support Me
+
 <p align="center">
-  <a href="https://instagram.com/USERNAME">Instagram</a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ✨ Philosophy
-<p align="center">
-  <i>"Consistency beats talent when talent doesn't stay consistent."</i>
-</p>
+## 💬 Quote
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+> "Stay consistent, no matter what."
