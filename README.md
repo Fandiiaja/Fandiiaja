@@ -1,82 +1,57 @@
-<h1 align="center">Master Fandi here 🔥</h1>
-<p align="center">Namaste 🙏 I'm Fandiiaja</p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fandiiaja/Fandiiaja/main/carmen.jpg" width="150" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Fandiiaja/Fandiiaja/main/banner.png"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Fandi</h1>
+<p align="center">
+  <i>"Still learning. Still growing."</i>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🚀 Started learning programming recently  
-- 💻 Exploring web development & tech  
-- 🎯 Focus on improving step by step  
-- 🧠 Always curious & learning new things  
-- ⚡ Building small projects  
+## 🌌 About Me
+- 🎓 Student
+- 💻 Learning Web Development
+- 🎯 Currently building my own projects
+- 🌙 Chill vibes + coding + music
 
 ---
 
-## 🌐 Follow Me
-
-<p align="center">
-  <a href="https://instagram.com/USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+## ⚔️ Arsenal (Tech Stack)
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js"/>
 </p>
 
 ---
 
-## 🧰 Languages & Tools
-
+## 📊 Power Level
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fandiiaja&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fandiiaja&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fandiiaja&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fandiiaja&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 Activity
-
+## 📈 Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fandiiaja&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fandiiaja&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🧠 Tech Stack
-
-- Frontend: HTML, CSS, JavaScript  
-- Backend: (coming soon 😏)  
-- Tools: Git, VS Code  
-
----
-
-## ⭐ Top Projects
-
-- 🚧 Coming soon...
-
----
-
-## ☕ Support Me
-
+## 🌠 Vibes
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
-  </a>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## 💬 Quote
-
-> "Stay consistent, no matter what."
+## 🔗 Connect
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
+</p>
